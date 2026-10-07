@@ -2,5 +2,8 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/lab2_advanced_ddl.sql" value="3ee28f77-b000-439c-8e0c-203d8d3c3d88" />
+    <file url="file://$PROJECT_DIR$/lab3_advanced_dml.sql" value="3ee28f77-b000-439c-8e0c-203d8d3c3d88" />
+    <file url="file://$PROJECT_DIR$/quiz_cafeteria.sql" value="3ee28f77-b000-439c-8e0c-203d8d3c3d88" />
+    <file url="file://$PROJECT_DIR$/quiz_library.sql" value="3ee28f77-b000-439c-8e0c-203d8d3c3d88" />
   </component>
 </project>
